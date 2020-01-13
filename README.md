@@ -59,6 +59,12 @@ model=models.load_model('your model filepath')
 Then you can see how the car plays the game.
 
 
+##XP
+
+my own file moved to handson_ml repo
+https://github.com/ILABUTK/handson-ml.git
+
+
 
 
 
